@@ -150,7 +150,7 @@ h2 {
 }
 
 .rotacao-botao{
-    transform: rotate(-9deg);
+    transform: rotate(-90deg);
     transform-origin: right center;
 
 }
